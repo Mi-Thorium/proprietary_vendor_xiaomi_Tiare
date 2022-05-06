@@ -18,27 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/QRD_Headset_cal.acdb \
     vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/QRD_Speaker_cal.acdb \
     vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/QRD_workspaceFile.qwsp \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Bluetooth_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_General_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Global_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Handset_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Hdmi_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Headset_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Speaker_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Bluetooth_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_General_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Global_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Handset_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Hdmi_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Headset_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Speaker_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Bluetooth_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_General_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Global_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Handset_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb \
-    vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb \
     vendor/xiaomi/tiare/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/xiaomi/tiare/proprietary/vendor/etc/camera/camera_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camera_config.xml \
     vendor/xiaomi/tiare/proprietary/vendor/etc/camera/csidtg_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_camera.xml \
